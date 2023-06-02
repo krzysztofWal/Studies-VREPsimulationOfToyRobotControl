@@ -1,6 +1,6 @@
-[submodule "Packages/coppelia_sim_git_repos/b0RemoteApiBindings"]
-	path = Packages/coppelia_sim_git_repos/b0RemoteApiBindings
-	url = https://github.com/CoppeliaRobotics/b0RemoteApiBindings.git
 [submodule "Packages/coppelia_sim_git_repos/bluezero"]
 	path = Packages/coppelia_sim_git_repos/bluezero
 	url = https://github.com/CoppeliaRobotics/bluezero.git
+[submodule "Packages/coppelia_sim_git_repos/b0RemoteApiBindings"]
+	path = Packages/coppelia_sim_git_repos/b0RemoteApiBindings
+	url = https://github.com/CoppeliaRobotics/b0RemoteApiBindings.git

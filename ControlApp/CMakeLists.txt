@@ -25,6 +25,6 @@ target_link_libraries(
 target_link_options(
     ${PROJECT_NAME}
         PRIVATE
-            -L${CMAKE_CURRENT_LIST_DIR}/../_vrep_shared_lib
+            -L${VREP_PATH}
 )
 
